@@ -1,2 +1,2 @@
-# prueba02
-Cómo crear un repositorio desde github
+#Proyecto prueba02
+Cómo crear un repositorio desde **github**
